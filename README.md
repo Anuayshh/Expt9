@@ -1,4 +1,7 @@
 # Ex.No:9 Develop a simple calculator using android studio.
+
+## DATE : 17/10/2023
+
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
@@ -6,27 +9,33 @@ To develop a program to develop a simple calculator in Android Studio.
 Android Studio(Latest Version)
 
 ## ALGORITHM:
-Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as calculator and click Next.
+### Step 1:
+Open Android Stdio and then click on File -> New -> New project.
 
-Step 3: Then select the Minimum SDK as shown below and click Next.
+### Step 2:
+Then type the Application name as calculator and click Next.
 
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+### Step 3: 
+Then select the Minimum SDK as shown below and click Next.
 
-Step 5: Design layout using UI components in activity_main.xml.
+### Step 4:
+Then select the Empty Activity and click Next. Finally click Finish.
 
-Step 6: Display the calculator operation in MainActivity file.
+### Step 5: 
+Design layout using UI components in activity_main.xml.
 
-Step 7: Save and run the application.
+### Step 6: 
+Display the calculator operation in MainActivity file.
+
+### Step 7: 
+Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to print the text “calculator operation”.
 Developed by:V R ANU AYSHWARYA
 Registeration Number :212221040016
-*/
 ```
 ## activity_main.xml
 ```
@@ -234,7 +243,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## OUTPUT
+## OUTPUT:
 ![image](https://github.com/Anuayshh/Expt9/assets/127651217/317a11d2-7492-4a47-9593-17b0cecaa47d)
 
 ![image](https://github.com/Anuayshh/Expt9/assets/127651217/87375caa-e282-4c4e-8a20-b5a146d5d06f)
@@ -255,5 +264,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-## RESULT
+## RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
